@@ -1,0 +1,30 @@
+[33mcommit b0590320b9f9cc065118d14b9051fff5cc0e8575[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9cc71be 9cd5450
+Author: Ruben Quijada <rubenquijada3@gmail.com>
+Date:   Wed Oct 26 18:37:07 2022 -0400
+
+    Merge branch 'main' of https://github.com/rubenquijada/calculo-numerico
+
+[33mcommit 9cc71be8bb8e9e6680553079e19a158efe433a6e[m[33m ([m[1;32mcalculo-numerico[m[33m)[m
+Author: Ruben Quijada <rubenquijada3@gmail.com>
+Date:   Tue Oct 25 20:26:58 2022 -0400
+
+    a ver si se sube
+
+[33mcommit 9cd5450b1bed8574caad189f5b8fee447ab42115[m
+Author: Ruben Quijada <rubenquijada3@gmail.com>
+Date:   Tue Oct 25 19:16:45 2022 -0400
+
+    a ver si se sube
+
+[33mcommit 1c1aedf9895d9aaa6f69bdc24dcf45d8868e75cf[m
+Author: rubenquijada <116230006+rubenquijada@users.noreply.github.com>
+Date:   Sun Oct 23 20:01:48 2022 -0400
+
+    Add files via upload
+
+[33mcommit bbec0ffb26223d3311bc93675a10b38a240bfec0[m
+Author: rubenquijada <116230006+rubenquijada@users.noreply.github.com>
+Date:   Sun Oct 23 16:17:01 2022 -0400
+
+    Initial commit
