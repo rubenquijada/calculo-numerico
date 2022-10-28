@@ -1,4 +1,4 @@
- from __future__ import print_function
+""" from __future__ import print_function
 from msilib.schema import tables
  import unittest
  class TestFoo(unittest.TestCase):
@@ -7,4 +7,11 @@ from msilib.schema import tables
      def fun_not_run(self):
              print("no run")
 
- unittest.main()
+ unittest.main()"""
+
+from typing_extensions import Self
+from errores import error_absoluto,error_relativo
+
+def prueba-errores(Self)
+
+self.assertPrueba1(error-abs,error-rela)

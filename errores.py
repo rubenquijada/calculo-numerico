@@ -22,8 +22,8 @@ if __name__=="__main__":
     valor_aproximado = 4 
     #aqui se ingresan los valores real y aproximado para la operacion
 
-    error_abs = error_absoluto(valor_real,valor_aproximado)
-    error_rela = error_relativo(error_abs,valor_real)
+    error_abs = error_absoluto(valor_real ,valor_aproximado)
+    error_rela = error_relativo(error_abs ,valor_real)
     #se hacen los calculos en los modulos y se retornan para ser usados en print
 
     print(f"Error absoluto caso 1: {error_abs}")
